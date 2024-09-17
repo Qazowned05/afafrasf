@@ -1,0 +1,10 @@
+C:\Users\Diego\source\repos\Problema02\Problema02\bin\Debug\Problema02.exe.config
+C:\Users\Diego\source\repos\Problema02\Problema02\bin\Debug\Problema02.exe
+C:\Users\Diego\source\repos\Problema02\Problema02\bin\Debug\Problema02.pdb
+C:\Users\Diego\source\repos\Problema02\Problema02\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diego\source\repos\Problema02\Problema02\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diego\source\repos\Problema02\Problema02\obj\Debug\Problema02.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\Problema02\Problema02\obj\Debug\Problema02.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Problema02\Problema02\obj\Debug\Problema02.csproj.Up2Date
+C:\Users\Diego\source\repos\Problema02\Problema02\obj\Debug\Problema02.exe
+C:\Users\Diego\source\repos\Problema02\Problema02\obj\Debug\Problema02.pdb
